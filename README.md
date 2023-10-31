@@ -16,7 +16,7 @@ N/A
 
 The learning points for HTML, CSS, GIT and Javascript are structured into separate boxes for the user to review.
 
-For a suggestion of what area to study first, the user can open the Console panel in Chrome DevTools (using keyboard shortcut `Command+Option+J` for Mac or `Control+Shift+J` for Windows). The Console panel will open to the side or the bottom of the web browser and will display a list of the subject areas with a suggestion of which to subject study first.
+For a suggestion of what area to study first, the user can open the Console panel in Chrome DevTools (using keyboard shortcut `Command+Option+J` for Mac or `Control+Shift+J` for Windows). The Console panel will open to the side or the bottom of the web browser and will display a list of the subject areas with a suggestion of which subject to study first.
 
 ## Credits
 
